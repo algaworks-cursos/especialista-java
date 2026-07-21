@@ -1,0 +1,24 @@
+# Compiled Java classes
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# ZIP files e pastas extraídas dos materiais do curso
+Modulos-aulas-exercicios/
+ementa-curso/
+exercicios-mod3/
+reeadme.md/
