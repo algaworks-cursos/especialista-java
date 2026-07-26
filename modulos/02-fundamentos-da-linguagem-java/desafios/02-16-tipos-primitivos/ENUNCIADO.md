@@ -1,0 +1,39 @@
+# 02.16 — Desafio: Tipos Primitivos e Conversão
+
+## Descrição
+
+Um programador começou a desenvolver um programa para o departamento de logística de uma empresa, que calcula o peso total das cargas de um caminhão, porém ele saiu de férias e você foi chamado para finalizar o trabalho.
+
+## Requisitos
+
+Embora o peso das cargas seja com decimais (ponto-flutuante), o usuário quer saber o peso total das cargas **sem casas decimais**, ou seja, o valor total deve ser **truncado**.
+
+Finalize o programa exibindo o peso total das cargas em inteiro.
+
+## Código base (incompleto)
+
+```java
+public class CalculadoraPesosDasCargas {
+
+  public static void main(String[] args) {
+    double pesoCarga1 = 1033.49;
+    double pesoCarga2 = 849.88;
+
+    int pesoTotalCargas = // escrever seu código aqui
+
+    // O resultado deve ser 1883
+    System.out.println("Peso total das cargas: " + pesoTotalCargas);
+  }
+
+}
+```
+
+## Resultado esperado
+
+```
+Peso total das cargas: 1883
+```
+
+## Arquivo
+
+- [CalculadoraPesosDasCargas.java](./CalculadoraPesosDasCargas.java)
