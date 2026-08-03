@@ -16,9 +16,3 @@ out/
 
 # MacOS
 .DS_Store
-
-# ZIP files e pastas extraídas dos materiais do curso
-Modulos-aulas-exercicios/
-ementa-curso/
-exercicios-mod3/
-reeadme.md/

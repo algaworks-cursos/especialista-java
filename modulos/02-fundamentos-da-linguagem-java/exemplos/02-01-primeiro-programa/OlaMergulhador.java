@@ -1,5 +1,4 @@
-// asjbfjabsfa
-public class OlaMergulhador { // ou na frente de uma declaração ou instrução
+public class OlaMergulhador {
 
   public static void main(String[] args) {
     // imprime a mensagem na saída padrão
