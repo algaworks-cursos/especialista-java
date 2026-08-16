@@ -5,12 +5,12 @@ public class Principal {
 
         cachorro1.nome = "Bob";
         cachorro1.raca = "Salsicha";
-        cachorro1.sexo = "Feminino";
+        cachorro1.sexo = 'F';
         cachorro1.idade = 18;
 
         cachorro2.nome = "Princesa";
         cachorro2.raca = "Pitbull";
-        cachorro2.sexo = "Masculino";
+        cachorro2.sexo = 'M';
         cachorro2.idade = 19;
 
         System.out.println("Cachorro 1");
