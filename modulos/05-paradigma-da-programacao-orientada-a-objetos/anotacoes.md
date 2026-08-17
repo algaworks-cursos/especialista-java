@@ -99,3 +99,9 @@ meuCarro.proprietario.nome = "Gustavo";
 ```
 
 > ðŸ’¡ O plugin **Java Visualizer** no IntelliJ Ã© excelente para ver como a composiÃ§Ã£o fica estruturada na memÃ³ria (Heap Memory)!
+
+## Aula 05.09 - Atribuindo o objeto da composição
+Quando utilizamos composição de objetos, o objeto referenciado precisa ser instanciado antes de tentarmos acessar suas propriedades, ou ocorrerá um NullPointerException.
+
+## Aula 05.10 - Conhecendo o diagrama de classes da UML
+O diagrama de classes fornece uma representação visual da estrutura do sistema. Usamos retângulos para representar classes e linhas para representar associações/composições. O StarUML é uma das ferramentas utilizadas para criá-los.

@@ -29,3 +29,7 @@
 â””â”€â”€ desafios/
     â””â”€â”€ 05-07-instanciando-objetos/
 ```
+
+### Aulas 05-06, 05-09 e 05-10
+* Conhecimento sobre Diagrama de classes UML
+* Atribuição de objetos na composição
