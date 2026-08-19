@@ -1,6 +1,6 @@
 # Módulo 05 — Mergulhando em orientação a objetos
 
-## 📋 Conteúdo do Módulo
+## 📚 Conteúdo do Módulo
 
 | Aula | Tema |
 |------|------|
@@ -12,10 +12,12 @@
 | 05.06 | Conhecendo o diagrama de classes da UML |
 | 05.07 | 🎯 Desafio: instanciando objetos e acessando os atributos |
 | 05.08 | Composição de objetos |
+| 05.09 | Atribuindo o objeto da composição |
+| 05.10 | Conhecendo o diagrama de classes da UML |
 
 *(Mais aulas serão adicionadas conforme o progresso do curso)*
 
-## 📁 Estrutura
+## 📂 Estrutura
 
 ```text
 05-paradigma-da-programacao-orientada-a-objetos/
@@ -25,11 +27,10 @@
 │   ├── 05-03-criando-uma-classe-com-atributos/
 │   ├── 05-04-instanciando-objetos/
 │   ├── 05-05-acessando-atributos-de-objetos/
-│   └── 05-08-composicao-de-objetos/
+│   ├── 05-06-diagrama-de-classes/
+│   ├── 05-08-composicao-de-objetos/
+│   ├── 05-09-atribuindo-o-objeto-da-composicao/
+│   └── 05-10-diagrama-de-classes/
 └── desafios/
     └── 05-07-instanciando-objetos/
 ```
-
-### Aulas 05-06, 05-09 e 05-10
-* Conhecimento sobre Diagrama de classes UML
-* Atribui��o de objetos na composi��o
