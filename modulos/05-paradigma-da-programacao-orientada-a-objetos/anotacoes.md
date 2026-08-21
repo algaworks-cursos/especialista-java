@@ -105,3 +105,13 @@ Quando utilizamos composição de objetos, o objeto referenciado precisa ser ins
 
 ## Aula 05.10 - Conhecendo o diagrama de classes da UML
 O diagrama de classes fornece uma representação visual da estrutura do sistema. Usamos retângulos para representar classes e linhas para representar associações/composições. O StarUML é uma das ferramentas utilizadas para criá-los.
+
+
+## Aula 05.11 - Valores padrão e inicialização de variáveis de instância
+
+Em Java, quando instanciamos objetos, suas variáveis de instância recebem valores padrão automaticamente:
+- Tipos primitivos numéricos (`int`, `double`, etc.): recebem o valor `0` (ou `0.0`).
+- Tipo primitivo lógico (`boolean`): recebe o valor `false`.
+- Tipos de referência (classes, como `String` ou `Pessoa`): recebem o valor `null`.
+
+> 💡 Também é possível inicializar a variável diretamente na classe, por exemplo: `String fabricante = "Ford";`. Assim, todo novo objeto já nascerá com este valor, em vez do valor padrão `null`.

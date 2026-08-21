@@ -14,6 +14,7 @@
 | 05.08 | Composição de objetos |
 | 05.09 | Atribuindo o objeto da composição |
 | 05.10 | Conhecendo o diagrama de classes da UML |
+| 05.11 | Valores padrão e inicialização de variáveis de instância |
 
 *(Mais aulas serão adicionadas conforme o progresso do curso)*
 
@@ -30,7 +31,8 @@
 │   ├── 05-06-diagrama-de-classes/
 │   ├── 05-08-composicao-de-objetos/
 │   ├── 05-09-atribuindo-o-objeto-da-composicao/
-│   └── 05-10-diagrama-de-classes/
+│   ├── 05-10-diagrama-de-classes/
+│   └── 05-11-valores-padrao-e-inicializacao-de-variaveis-de-instancia/
 └── desafios/
     └── 05-07-instanciando-objetos/
 ```
