@@ -115,3 +115,15 @@ Em Java, quando instanciamos objetos, suas variáveis de instância recebem valo
 - Tipos de referência (classes, como `String` ou `Pessoa`): recebem o valor `null`.
 
 > 💡 Também é possível inicializar a variável diretamente na classe, por exemplo: `String fabricante = "Ford";`. Assim, todo novo objeto já nascerá com este valor, em vez do valor padrão `null`.
+
+## Aula 05.12 - Inicialização de objetos em variáveis de instância
+
+Para evitar problemas de `NullPointerException` ao trabalhar com composição, podemos inicializar o objeto referenciado diretamente na declaração da variável de instância:
+
+```java
+public class Carro {
+    Pessoa proprietario = new Pessoa(); // O objeto é criado junto com o Carro
+}
+```
+
+Desta forma, garantimos que a variável de referência não será `null` assim que o objeto principal for instanciado, facilitando a atribuição de suas propriedades de forma segura.
